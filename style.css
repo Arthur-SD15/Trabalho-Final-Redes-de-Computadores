@@ -48,3 +48,21 @@ button {
 button:hover{
     background-color: #2a872d;
 }
+
+.result{
+    color: white;
+    display: flex;
+    margin-top: 2%;
+    padding: 15px;
+    background-color: #4CAF50;
+    border-radius: 5px;
+}
+
+.resultErro{
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    margin-top: 2%;
+    padding: 15px;
+    background-color: #c12222;
+}
